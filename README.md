@@ -4,14 +4,6 @@
 
 filep48 is an active GitHub developer with projects in Java, PHP, Kotlin, HTML, and CSS, ranging from web applications to ERP systems.
 
-## 📂 Popular Repositories
-
-1. [VRWeb](https://github.com/filep48/VRWeb) - Virtual reality website (HTML)
-2. [PHPTest2](https://github.com/filep48/PHPTest2) - PHP test project (PHP)
-3. [JavaChat](https://github.com/filep48/JavaChat) - Chat application (Java)
-4. [VirtualVisionERP](https://github.com/filep48/VirtualVisionERP) - ERP system (Java, Spring Boot, Spring Security, HTML, CSS)
-5. [MushToolApp](https://github.com/filep48/MushToolApp) - Mushroom search app (Kotlin, Jetpack Compose)
-
 ## 💻 Languages & Technologies
 
 <p align="center">
