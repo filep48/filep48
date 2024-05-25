@@ -33,10 +33,6 @@ filep48 is an active GitHub developer with projects in Java, PHP, Kotlin, HTML, 
 
 filep48 encourages contributions. Fork the repo, create a branch, commit changes, push to the branch, and open a pull request.
 
-## 📧 Contact
-
-Visit [filep48's GitHub profile](https://github.com/filep48) for more information.
-
 ---
 
 Thank you for visiting filep48's GitHub profile. We hope you find his projects useful! 🎉
