@@ -43,14 +43,16 @@ Visit [filep48's GitHub profile](https://github.com/filep48) for more informatio
 
 ---
 
-![Java](https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png)
-![PHP](https://img.icons8.com/officel/40/000000/php-logo.png)
-![Kotlin](https://img.icons8.com/color/48/000000/kotlin.png)
-![HTML](https://img.icons8.com/color/48/000000/html-5.png)
-![CSS](https://img.icons8.com/color/48/000000/css3.png)
-![Spring Boot](https://img.icons8.com/color/48/000000/spring-logo.png)
-![Jetpack Compose](https://raw.githubusercontent.com/github/explore/ae48d1ca3274c0c3a90f872e605eaef069a16771/topics/jetpack-compose/jetpack-compose.png)
-![TypeScript](https://img.icons8.com/color/48/000000/typescript.png)
-![React](https://img.icons8.com/color/48/000000/react-native.png)
-![Vite](https://vitejs.dev/logo-with-shadow.png)
-![Tauri](https://cdn.worldvectorlogo.com/logos/tauri-1.svg)
+<p align="center">
+<img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" width="48" height="48">
+<img src="https://img.icons8.com/officel/48/000000/php-logo.png" width="48" height="48">
+<img src="https://img.icons8.com/color/48/000000/kotlin.png" width="48" height="48">
+<img src="https://img.icons8.com/color/48/000000/html-5.png" width="48" height="48">
+<img src="https://img.icons8.com/color/48/000000/css3.png" width="48" height="48">
+<img src="https://img.icons8.com/color/48/000000/spring-logo.png" width="48" height="48">
+<img src="https://raw.githubusercontent.com/github/explore/ae48d1ca3274c0c3a90f872e605eaef069a16771/topics/jetpack-compose/jetpack-compose.png" width="48" height="48">
+<img src="https://img.icons8.com/color/48/000000/typescript.png" width="48" height="48">
+<img src="https://img.icons8.com/color/48/000000/react-native.png" width="48" height="48">
+<img src="https://icon.icepanel.io/Technology/svg/Vite.js.svg" width="48" height="48">
+<img src="https://cdn.icon-icons.com/icons2/3915/PNG/48/tauri_logo_icon_249441.png" width="48" height="48">
+</p>
