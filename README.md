@@ -12,26 +12,26 @@ filep48 is an active GitHub developer with projects in Java, PHP, Kotlin, HTML, 
 4. [VirtualVisionERP](https://github.com/filep48/VirtualVisionERP) - ERP system (Java, Spring Boot, Spring Security, HTML, CSS)
 5. [MushToolApp](https://github.com/filep48/MushToolApp) - Mushroom search app (Kotlin, Jetpack Compose)
 
-## 💻 Languages
+## 💻 Languages & Technologies
 
-- Java
-- PHP
-- Kotlin
-- HTML
-- CSS
-
-## 🛠️ Technologies
-
-- Spring Boot
-- Spring Security
-- Jetpack Compose
+<p align="center">
+<img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" width="48" height="48">
+<img src="https://img.icons8.com/officel/48/000000/php-logo.png" width="48" height="48">
+<img src="https://img.icons8.com/color/48/000000/kotlin.png" width="48" height="48">
+<img src="https://img.icons8.com/color/48/000000/html-5.png" width="48" height="48">
+<img src="https://img.icons8.com/color/48/000000/css3.png" width="48" height="48">
+<img src="https://img.icons8.com/color/48/000000/spring-logo.png" width="48" height="48">
+<img src="https://raw.githubusercontent.com/github/explore/ae48d1ca3274c0c3a90f872e605eaef069a16771/topics/jetpack-compose/jetpack-compose.png" width="48" height="48">
+</p>
 
 ## 🌱 Currently Learning
 
-- TypeScript
-- React
-- Vite
-- Tauri
+<p align="center">
+<img src="https://img.icons8.com/color/48/000000/typescript.png" width="48" height="48">
+<img src="https://img.icons8.com/color/48/000000/react-native.png" width="48" height="48">
+<img src="https://icon.icepanel.io/Technology/svg/Vite.js.svg" width="48" height="48">
+<img src="https://cdn.icon-icons.com/icons2/3915/PNG/48/tauri_logo_icon_249441.png" width="48" height="48">
+</p>
 
 ## 🤝 Contributions
 
@@ -43,16 +43,4 @@ Visit [filep48's GitHub profile](https://github.com/filep48) for more informatio
 
 ---
 
-<p align="center">
-<img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" width="48" height="48">
-<img src="https://img.icons8.com/officel/48/000000/php-logo.png" width="48" height="48">
-<img src="https://img.icons8.com/color/48/000000/kotlin.png" width="48" height="48">
-<img src="https://img.icons8.com/color/48/000000/html-5.png" width="48" height="48">
-<img src="https://img.icons8.com/color/48/000000/css3.png" width="48" height="48">
-<img src="https://img.icons8.com/color/48/000000/spring-logo.png" width="48" height="48">
-<img src="https://raw.githubusercontent.com/github/explore/ae48d1ca3274c0c3a90f872e605eaef069a16771/topics/jetpack-compose/jetpack-compose.png" width="48" height="48">
-<img src="https://img.icons8.com/color/48/000000/typescript.png" width="48" height="48">
-<img src="https://img.icons8.com/color/48/000000/react-native.png" width="48" height="48">
-<img src="https://icon.icepanel.io/Technology/svg/Vite.js.svg" width="48" height="48">
-<img src="https://cdn.icon-icons.com/icons2/3915/PNG/48/tauri_logo_icon_249441.png" width="48" height="48">
-</p>
+Thank you for visiting filep48's GitHub profile. We hope you find his projects useful! 🎉
