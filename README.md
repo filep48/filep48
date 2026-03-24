@@ -3,9 +3,9 @@
 ## 👤 User Overview
 
 filep48 is an active GitHub developer with projects in Java, PHP, Kotlin, HTML, and CSS, ranging from web applications to ERP systems.
-Currently, he is doing an internship at Dezac, a company part of the Circutor group, where he works on multiple projects using frameworks like .NET, Vue, and SQL Server. The internship ends on 30/06/2025.
+Currently, he is doing an internship at Orq.ai, where he works on multiple projects using frameworks like Angular.
 
-He is also developing a music application with a partner using Angular, ExpressJS, and MongoDB.
+He is also developing a music application with a partner using Angular.
 
 ## 💻 Languages & Technologies
 
