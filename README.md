@@ -1,4 +1,4 @@
-<img src="assets/header.svg" width="100%" alt="Kevin Vasquez, AI engineer and QA at orq.ai, over a spectrogram drawn by 2D Spectrogram">
+<img src="assets/header.svg" width="100%" alt="Kevin Vásquez, AI engineer and QA at orq.ai, over a spectrogram drawn by 2D Spectrogram">
 
 <p align="center">At home I build the tools I end up using every day.</p>
 
