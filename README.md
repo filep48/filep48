@@ -4,8 +4,8 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=angular%2Cpython%2Cgo%2Ckotlin%2Cdocker&theme=dark">
-    <img alt="Angular, Python, Go, Playwright, Docker" src="https://skillicons.dev/icons?i=angular%2Cpython%2Cgo%2Ckotlin%2Cdocker&theme=light">
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=angular%2Cpython%2Cgo%2Cdocker&theme=dark">
+    <img alt="Angular, Python, Go, Docker" src="https://skillicons.dev/icons?i=angular%2Cpython%2Cgo%2Cdocker&theme=light">
   </picture>
 </p>
 
