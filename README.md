@@ -9,7 +9,7 @@
   </picture>
 </p>
 
-<img src="assets/divider.svg" width="100%" alt="">
+<img src="assets/soundwave.svg" width="100%" alt="">
 
 ## Projects
 
@@ -26,7 +26,7 @@
 <tr><td width="50%" valign="top"><b>Look!</b><br><sub>A wardrobe app that answers "what do I wear today?" from photos of your own clothes. Background removal runs on the phone, no server.</sub></td><td width="50%" valign="top"><b>WebThemer</b><br><sub>A browser extension that keeps the CSS you change in DevTools, so it is still there after a reload.</sub></td></tr>
 </table>
 
-<img src="assets/divider.svg" width="100%" alt="">
+<img src="assets/soundwave.svg" width="100%" alt="">
 
 <details>
 <summary>School projects, 2022 to 2024</summary>
@@ -35,6 +35,9 @@
 
 - [VirtualVisionERP](https://github.com/filep48/VirtualVisionERP): ERP for virtual reality stores, Spring Boot and Spring Security. I led the team.
 - [MushToolApp](https://github.com/filep48/MushToolApp): mushroom field guide for Android, Kotlin and Jetpack Compose.
+- **SoundWaves**: music streaming platform, Angular front end and a TypeScript server. Team of three.
 - [JavaChat](https://github.com/filep48/JavaChat): chat app in plain Java.
 
 </details>
+
+<p align="center"><img src="https://raw.githubusercontent.com/filep48/filep48/output/breakout.svg" width="100%" alt="My contribution graph as a game of Breakout"></p>

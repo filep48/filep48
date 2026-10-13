@@ -1,0 +1,37 @@
+name: breakout
+
+# Redraws the contribution graph as a Breakout game once a day. The daily commit
+# also counts as repository activity, so GitHub never pauses this schedule.
+on:
+  schedule:
+    - cron: "17 4 * * *"
+  workflow_dispatch:
+
+jobs:
+  draw:
+    permissions:
+      contents: write
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+
+      # Pinned to the v1 commit so a moved tag cannot change what runs here.
+      - uses: cyprieng/github-breakout@60c43dca3a1361fbc9fb9bb533b5193296345c4f
+        with:
+          github_username: ${{ github.repository_owner }}
+          paddle_color: "#f59f00"
+          ball_color: "#fce66b"
+          bricks_colors: "#2d333b,#7b2d8e,#c03a76,#e8590c,#f59f00"
+
+      - name: Publish to the output branch
+        run: |
+          mkdir -p /tmp/breakout && mv output/custom.svg /tmp/breakout/breakout.svg
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git checkout --orphan output
+          git rm -rfq .
+          mv /tmp/breakout/breakout.svg .
+          git add breakout.svg
+          git commit -qm "chore: redraw breakout"
+          git push -f origin output
