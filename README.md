@@ -28,14 +28,14 @@
 
 <img src="assets/soundwave.svg" width="100%" alt="">
 
-<details>
+<details open>
 <summary>School projects, 2022 to 2024</summary>
 
 <br>
 
 - [VirtualVisionERP](https://github.com/filep48/VirtualVisionERP): ERP for virtual reality stores, Spring Boot and Spring Security. I led the team.
 - [MushToolApp](https://github.com/filep48/MushToolApp): mushroom field guide for Android, Kotlin and Jetpack Compose.
-- **SoundWaves**: music streaming platform, Angular front end and a TypeScript server. Team of three.
+- **SoundWaves** (now Lora): music streaming platform, Angular front end and a TypeScript server. Team of three.
 - [JavaChat](https://github.com/filep48/JavaChat): chat app in plain Java.
 
 </details>
