@@ -1,4 +1,4 @@
-<img src="assets/header.png" width="100%" alt="Kevin Vasquez, AI engineer and QA at orq.ai, over a spectrogram drawn by 2D Spectrogram">
+<img src="assets/header.svg" width="100%" alt="Kevin Vasquez, AI engineer and QA at orq.ai, over a spectrogram drawn by 2D Spectrogram">
 
 <p align="center">At home I build the tools I end up using every day.</p>
 
@@ -9,7 +9,7 @@
   </picture>
 </p>
 
-<img src="assets/divider.png" width="100%" alt="">
+<img src="assets/divider.svg" width="100%" alt="">
 
 ## Projects
 
@@ -26,7 +26,7 @@
 <tr><td width="50%" valign="top"><b>Look!</b><br><sub>A wardrobe app that answers "what do I wear today?" from photos of your own clothes. Background removal runs on the phone, no server.</sub></td><td width="50%" valign="top"><b>WebThemer</b><br><sub>A browser extension that keeps the CSS you change in DevTools, so it is still there after a reload.</sub></td></tr>
 </table>
 
-<img src="assets/divider.png" width="100%" alt="">
+<img src="assets/divider.svg" width="100%" alt="">
 
 <details>
 <summary>School projects, 2022 to 2024</summary>
